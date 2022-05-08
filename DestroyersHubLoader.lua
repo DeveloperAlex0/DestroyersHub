@@ -1,6 +1,4 @@
---loadstring(game:HttpGet('https://github.com/DeveloperAlex0/DestroyersHub/raw/source/DestroyersHubLoader.lua'))()
-
-
+--https://raw.githubusercontent.com/DeveloperAlex0/DestroyersHub/source/DestroyersHubLoader.lua
 
 
 
